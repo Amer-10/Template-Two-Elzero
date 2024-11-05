@@ -1039,7 +1039,7 @@ ul {
                     font-weight: bold;
                     color: var(--main-color-two);
                 }
-                a {
+                .A-10 {
                     text-decoration: none;
                     color: var(--main-color-two);
                     font-weight: bold;
